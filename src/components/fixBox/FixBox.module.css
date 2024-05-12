@@ -1,0 +1,7 @@
+
+.fixback{
+    width: 100%;
+    height: 450px;
+    background-image: url(../../images/fixbackground/recipe-baner-1.png);
+    position: sticky;
+}

@@ -1,0 +1,29 @@
+.mainImage{
+    width: 100%;
+    height: 530px;
+    position: relative;
+    background-color: white;
+    img{
+        width: 100%;
+        height: 500px;
+    }
+    .textMainImage{
+        width: 260px;
+        height: 80px;
+        padding: 10px;
+        padding-right: 35px;
+        background-color: #ED1C24;
+        position: absolute;
+        bottom: 1%;
+        right: 29%;
+        h1{
+            font-size: 25px;
+            color: whitesmoke;
+            margin-bottom: 15px;
+        }
+        span{
+            color: whitesmoke;
+            font-size: 18px;
+        }
+    }
+}
